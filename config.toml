@@ -1,4 +1,4 @@
-baseurl = "https://scferrada.github.io"
+baseurl = "https://scferrada.github.io/"
 title = "Sebastián's academic website"
 copyright = "&copy; 2017 Sebastián Ferrada"
 theme = "academic"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-98676305-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -23,13 +23,13 @@ defaultContentLanguageInSubdir = false
   role = "PhD in Computer Science Student"
   organization = "Center for Semantic Web Research, Universidad de Chile"
   organization_url = "http://ciws.cl/"
-  avatar = "portrait.jpg"
+  avatar = "yo.jpg"
   email = "sferrada@dcc.uchile.cl"
   address = "Beauchef 851, Office BP-P-304, Universidad de Chile, Santiago"
   office_hours = "Email for appointment"
   phone = ""
   skype = ""
-  telegram = ""
+  telegram = "Ferradest"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""

@@ -9,7 +9,7 @@ title = "Constitución Abierta"
 summary = "Visualizing the results of the Chilean constitutional process."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "ca.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,4 +23,4 @@ math = false
 
 +++
 
-Project Managed by Jorge Perez
+Project Managed by Jorge Perez.
