@@ -36,7 +36,7 @@ weight = 1
 
 I'm Sebastián Ferrada, a Doctoral student at the Center for Semantic Web Research at Universidad de Chile. 
 My research interests include Information Retrieval, Data Mining & Visualization, Multimedia Databases and Linked Data. 
-I'm currently developing my PhD thesis regarding the combination of semantic and visual similarity queries using Semantic Web technologies such as RDF and SPARQL, 
+I'm currently developing my PhD thesis regarding the combination of semantic and visual similarity queries using Semantic Web technologies, 
 you can learn more by visiting the <a href="http://imgpedia.dcc.uchile.cl">IMGpedia project site</a>.
 
 Besides research I'm very into teaching. 

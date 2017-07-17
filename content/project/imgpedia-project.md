@@ -9,7 +9,7 @@ title = "IMGpedia project"
 summary = "Combining visual and semantic queries on the Web."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "imgpedia.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Multimedia", "deep-learning"]`
