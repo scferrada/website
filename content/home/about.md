@@ -39,9 +39,9 @@ My research interests include Information Retrieval, Data Mining & Visualization
 I'm currently developing my PhD thesis regarding the combination of semantic and visual similarity queries using Semantic Web technologies, 
 you can learn more by visiting the <a href="http://imgpedia.dcc.uchile.cl">IMGpedia project site</a>.
 
-Besides research I'm very into teaching. 
-Currently I'm Teaching Assistant in Databases and Programming Methodologies. 
-I have worked in many other areas and courses, you may find a complete list having a look at my <a href="/pdf/cv.pdf">resumé</a>. 
-I have done volunteer teaching at <a href="http://www.preumeduchile.cl/">Preumed</a>, 
+Besides research I really enjoy teaching. 
+Currently I'm a Teaching & Laboratory Assistant in the Relational Databases Course at the the Department of Computer Science (<a href="http://dcc.uchile.cl">DCC</a>). 
+I have worked in many other areas and courses such as Algorithm analysis and Programming Design Methodologies, you may find a complete list having a look at my <a href="/pdf/cv.pdf">resumé</a>. 
+I have also done some extracurricular volunteer teaching at <a href="http://www.preumeduchile.cl/">Preumed</a>, 
 <a href="https://sites.google.com/a/capsocial.cl/capsocial/">Capsocial</a> and 
 <a href="http://escuela.ingenieria.uchile.cl/vida-estudiantil/127291/grupos-organizados">Apoyo Escolar</a>.

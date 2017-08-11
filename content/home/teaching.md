@@ -16,5 +16,7 @@ weight = 60
 
 I am a teaching assistant for the following courses at Universidad de Chile, during 2017 autumn term:
 
-- CC3201: Databases
-- CC3002: Design and Programming Methodologies
+- <a href="http://users.dcc.uchile.cl/~sferrada/teaching/cc3201-2017-1">CC3201</a>: Databases
+- <a href="http://users.dcc.uchile.cl/~sferrada/teaching/cc3002-2017-1">CC3002</a>: Design and Programming Methodologies
+
+You can find material following the links. For a list of all courses you may visit <a href="http://users.dcc.uchile.cl/~sferrada/teaching/">this page</a>.
